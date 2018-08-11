@@ -19,6 +19,6 @@ Please read the following before committing changes:
 	`Chapter 2.docx`<br>
 	`Chapter 3.docx`<br>
 
-5. In order to submit revisions or changes of the following files stated in #4, a member should only submit a revised copy of the chapter with a format `(Chapter)-Revision.docx`; or use the format `(Chapter)-Revision-1.docx` if you wish to add more revisions without replacing the previous revision.
+5. In order to submit revisions or commit changes for the following files stated in #4, a member should only submit a revised copy of the chapter with a format `(Chapter)-Revision.docx`; or use the format `(Chapter)-Revision-1.docx` if you wish to add more revisions without replacing the previous revision.
 
 **Note: Changes are only considered OFFICIAL if a) approved or suggested by adviser of professors, b) approved and agreed upon discussion by ALL of the contributors of this project.**
