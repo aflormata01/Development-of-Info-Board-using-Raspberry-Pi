@@ -10,14 +10,14 @@ Please read the following before committing changes:
 3. Development of Info Board using Raspberry Pi.docx -  is the FINAL FILE and should be changed only when the research papers are ready for BINDING. This will serve as the OFFICIAL COPY to be printed and prepared in hardbound.
 4. The following filenames are the OFFICIAL FILES for the CURRENT progress that will be ready for submission (e.g. files ready for printing or to be presented in the scheduled topic defense, files to be submitted to professors or advisers)
 
-Title Page.docx<br>
-Table of Contents.docx<br>
-List of Tables.docx<br>
-List of Figures.docx<br>
-List of Appendices.docx<br?
-Chapter 1.docx<br>
-Chapter 2.docx<br>
-Chapter 3.docx<br>
+	Title Page.docx<br>
+	Table of Contents.docx<br>
+	List of Tables.docx<br>
+	List of Figures.docx<br>
+	List of Appendices.docx<br>
+	Chapter 1.docx<br>
+	Chapter 2.docx<br>
+	Chapter 3.docx<br>
 
 5. In order to submit revisions or changes of the following files stated in #4, a member should only submit a revised copy of the chapter with a format "(Chapter)-Revision"; or use the format "(Chapter)-Revision-1" if you wish to add more revisions without replacing the previous revision.
 
