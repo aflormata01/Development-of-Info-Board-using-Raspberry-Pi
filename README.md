@@ -1,4 +1,4 @@
-# Development-of-Info-Board-using-Raspberry-Pi
+# Development of Info Board using Raspberry Pi
 Research Topic
 
 This will be set as an official repository of documents that will be used for thesis proposal namely, "Development of Info Board using Raspberry Pi" and will be used for academic purposes only.
